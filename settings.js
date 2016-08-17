@@ -1,4 +1,4 @@
-exports.url = 'http://localhost:3090';
-exports.senderEmail = "sender@example.com";
-exports.senderName = "Example Sender";
-exports.listID = 348282;
+exports.url = 'http://dc-opt-in.herokuapp.com';
+exports.senderEmail = "jtappe@jamestappe.com";
+exports.senderName = "Testing Devins double opt-in plugin";
+exports.listID = 511780;
